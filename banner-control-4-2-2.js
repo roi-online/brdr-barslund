@@ -34,7 +34,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "https://kc-its.dk/wp-content/uploads/2024/02/kc-its-logo.png";
+var websiteLogo = "https://www.brdr-barslund.dk/wp-content/uploads/2020/11/logo-4.png";
 
 var logoWidth = "200px";
 
